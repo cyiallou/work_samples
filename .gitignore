@@ -7,6 +7,7 @@ __pycache__/
 
 
 # Distribution / packaging
+.ipynb_checkpoints
 
 # specific to IntelliJ IDEA (due to using Pycharm IDE)
 .idea/
